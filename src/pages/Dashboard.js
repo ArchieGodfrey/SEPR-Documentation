@@ -41,6 +41,9 @@ const Dashboard = ({ DeviceWidth }) => {
                         <li><a href="https://github.com/ArchieGodfrey/Kroy" rel="noopener noreferrer" target="_blank">
                             <h5>The Github repo for the game can be found here</h5>
                         </a></li>
+                        <li><a href="https://drive.google.com/open?id=1CQFITJm2dY7zPVkZQfNmYxCFXkDhYnrI" rel="noopener noreferrer" target="_blank">
+                            <h5>The structure for Firebase storage can be found here</h5>
+                        </a></li>
                     </ul>
                     
                 {DeviceWidth <= 850 && <Iframe url="https://salt-and-sepr.web.app"
