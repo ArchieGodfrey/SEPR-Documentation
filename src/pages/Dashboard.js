@@ -30,15 +30,15 @@ const Dashboard = ({ DeviceWidth }) => {
 
                 <h1 style={{fontSize: '3.5rem', marginBottom: '1rem'}}>Play <strong style={{fontSize: '5rem'}}>Kroy!</strong></h1>
                 <h3 style={{ marginBottom: '1rem'}}>Created by <strong style={{fontSize: '2.5rem'}}>Salt and SEPR</strong></h3>
-                    <a href="https://drive.google.com/a/york.ac.uk/file/d/1yjQCnpAWV_J7Hk0eDUBXWFZsT8MuFupM/view?usp=sharing" rel="noopener noreferrer" target="_blank">
+                    <a href="https://drive.google.com/a/york.ac.uk/file/d/1Jd7rNr0pwplh2LchEkSLuD5by0L9eFHr/view?usp=sharing" rel="noopener noreferrer" target="_blank">
                         <h5>Download the game here</h5>
                     </a>
                     <p>The following links contain details about our project</p>
                     <ul>
-                        <li><a href="https://docs.google.com/document/d/1Lt1E5ticyUY1MxAbgrukSLbxdkpNmpdKNJyOXPUJBpw/edit?usp=sharing" rel="noopener noreferrer" target="_blank">
+                        <li><a href="https://drive.google.com/a/york.ac.uk/file/d/1BzSowbysZ1uKL3loHj-oZwWUp-cwbbTL/view?usp=sharing" rel="noopener noreferrer" target="_blank">
                             <h5>The User manual for Kroy can be found here</h5>
                         </a></li>
-                        <li><a href="https://github.com/ArchieGodfrey/Kroy" rel="noopener noreferrer" target="_blank">
+                        <li><a href="https://github.com/ArchieGodfrey/Salt-N-Zella" rel="noopener noreferrer" target="_blank">
                             <h5>The Github repo for the game can be found here</h5>
                         </a></li>
                         <li><a href="https://drive.google.com/open?id=1CQFITJm2dY7zPVkZQfNmYxCFXkDhYnrI" rel="noopener noreferrer" target="_blank">

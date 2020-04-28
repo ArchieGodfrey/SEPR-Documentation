@@ -24,13 +24,18 @@ export default class Testing extends React.Component {
                     </a>
                    </li>
                    <li>
-                    <a href="https://docs.google.com/spreadsheets/d/1R3Sllrp6JBsMDXjNrgVyxq_Eobxq0lJMfmrkM-ufiF0/edit?usp=sharing" rel="noopener noreferrer" target="_blank">
+                    <a href="https://docs.google.com/spreadsheets/d/1PrwTsPZvKWv4kOx3YIOcQJnCfvmDnIVXSipmKG60hiE/edit?usp=sharing" rel="noopener noreferrer" target="_blank">
                         <h4>Test Cases</h4>
                     </a>
                    </li>
                    <li>
-                    <a href="https://docs.google.com/spreadsheets/d/1eBuh6mlPppfzZ9UReYEvmTLPU2sM8t5dbWAGZ14H4vI/edit?usp=sharing" rel="noopener noreferrer" target="_blank">
+                    <a href="https://docs.google.com/spreadsheets/d/1zWQGRn4uwfxPKI_1jLZpUCjO-cN6MgLcv47GYjEeQts/edit?usp=sharing" rel="noopener noreferrer" target="_blank">
                         <h4>Traceability Matrix</h4>
+                    </a>
+                   </li>
+                   <li>
+                    <a href="https://sepr-testing.web.app/" rel="noopener noreferrer" target="_blank">
+                        <h4>Test Coverage</h4>
                     </a>
                    </li>
                </ul>

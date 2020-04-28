@@ -15,7 +15,7 @@ export default class Changes extends React.Component {
                 justifyContent: 'center',
                 alignItems: DeviceWidth <= 700 ? 'center' : 'flex-start',
             }}>
-               <h1>Welcome to the Changes page</h1>
+               <h1>Welcome to the Project Review page</h1>
                <Section storageRef={storageRef} DeviceWidth={DeviceWidth} withControls={true} />
            </div>
         );

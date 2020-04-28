@@ -43,5 +43,5 @@ export const NavigationOptions = [
     { id: 3, title: "Risk Assessment", link: "/riskassessment"},
     { id: 4, title: "Testing", link: "/testing"},
     { id: 5, title: "Implementation", link: "/implementation"},
-    { id: 6, title: "Changes", link: "/changes"},
+    { id: 6, title: "Review", link: "/changes"},
   ];
