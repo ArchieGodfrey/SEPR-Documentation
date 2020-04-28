@@ -11,6 +11,7 @@ import Requirements from './pages/Requirements';
 import RiskAssessment from './pages/RiskAssessment';
 import Architecture from './pages/Architecture';
 import Menu from './pages/Menu';
+import Changes from './pages/Changes';
 import ProjectPlanning from './pages/ProjectPlanning';
 import Testing from './pages/Testing';
 import Implementation from './pages/Implementation';
@@ -70,7 +71,10 @@ export default function App() {
             paddingTop: 0,
           }}>
             <Switch >
-            <Route path="/implementation">
+              <Route path="/changes">
+                  <Changes DeviceWidth={width} />
+                </Route>
+              <Route path="/implementation">
                 <Implementation DeviceWidth={width} />
               </Route>
               <Route path="/testing">
