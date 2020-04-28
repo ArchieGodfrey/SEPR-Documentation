@@ -45,7 +45,7 @@ const SectionContents = ({ index, showHeader, refUrl, DeviceWidth, withControls 
         <div>
             {showHeader && <div onClick={() => pressed()}
                 style={{display: 'flex', flex: 1, flexDirection: 'row', justifyContent: 'flex-end', position: 'absolute', left: 0, paddingRight: '1rem', paddingTop: '1rem',
-                    borderTopRightRadius: (index % 2) == 0 ? 50 : 0, borderBottomRightRadius: (index % 2) > 0 ? 50 : 0, marginTop: index * 150,
+                    borderTopRightRadius: (index % 2) === 0 ? 50 : 0, borderBottomRightRadius: (index % 2) > 0 ? 50 : 0, marginTop: index * 150,
                     backgroundColor: 'rgb(50,125,247)', width: DeviceWidth <= 675 ? DeviceWidth * 0.62 : DeviceWidth * 0.405 }}>
                 <h2 style={{
                     textDecorationLine: "underline"
